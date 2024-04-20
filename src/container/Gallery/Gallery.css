@@ -94,18 +94,6 @@
   color: var(--color-white);
 }
 
-@media screen and (min-width: 2500px) {
-  .app__gallery {
-    min-width: 1000px;
-    padding-right: 4rem;
-  }
-
-  .app__gallery-images_card {
-    min-width: 400px;
-    height: 550px;
-  }
-}
-
 @media screen and (max-width: 1150px) {
   .app__gallery {
     flex-direction: column;

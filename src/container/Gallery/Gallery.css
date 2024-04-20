@@ -94,7 +94,7 @@
   color: var(--color-white);
 }
 
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 2500px) {
   .app__gallery {
     min-width: 1000px;
     padding-right: 4rem;

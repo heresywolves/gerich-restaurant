@@ -6,7 +6,7 @@ import './App.css';
 
 const App = () => (
   <div>
-    <Preloader />
+    {/* <Preloader /> */}
     <Navbar />
     <Header />
     <AboutUs />

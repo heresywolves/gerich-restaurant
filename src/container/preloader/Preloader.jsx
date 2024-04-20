@@ -14,7 +14,7 @@ function Preloader() {
 
   return (
     (activeLoader && (
-      <div className='preloader app__bg'>
+      <div className='preloader'>
         <img src={logo} alt="loader spinner" className='preloader__image'/>
       </div>
     ))

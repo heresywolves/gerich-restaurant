@@ -24,7 +24,7 @@ const Intro = () => {
   return (
   <div className='app__video'>
     <video 
-      src={meal} 
+      src="https://user74.cloud-ru.vejio.su/uploads/files/634m3bregch0n3de0r1l0400_meal.webm"
       ref={vidRef}
       type="video/mp4"
       loop

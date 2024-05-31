@@ -10,7 +10,7 @@
 }
 
 .app__bg {
-  background: url('https://user74.cloud-ru.vejio.su/uploads/files/634llo5j0qmk9sm4jl77ueku_bg.webp');
+  background: url('/src/assets/bg.webp');
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
